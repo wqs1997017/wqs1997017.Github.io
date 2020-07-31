@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wqs1997017.Github.io</id>
     <title>Test</title>
-    <updated>2020-07-31T20:51:05.363Z</updated>
+    <updated>2020-07-31T20:55:17.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wqs1997017.Github.io"/>
     <link rel="self" href="https://wqs1997017.Github.io/atom.xml"/>
@@ -11,11 +11,20 @@
     <icon>https://wqs1997017.Github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Test</rights>
     <entry>
+        <title type="html"><![CDATA[OuO]]></title>
+        <id>https://wqs1997017.Github.io/post/ouo/</id>
+        <link href="https://wqs1997017.Github.io/post/ouo/">
+        </link>
+        <updated>2020-07-31T08:54:09.000Z</updated>
+        <content type="html"><![CDATA[<p>Just a test~~</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wqs1997017.Github.io/post/hello-gridea/</id>
         <link href="https://wqs1997017.Github.io/post/hello-gridea/">
         </link>
-        <updated>2018-12-11T03:00:00.000Z</updated>
+        <updated>2018-12-10T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></summary>
